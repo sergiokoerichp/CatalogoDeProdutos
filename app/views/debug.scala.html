@@ -1,0 +1,8 @@
+@()(implicit lang: play.api.i18n.Lang)
+@import play.api.Play.current
+
+<footer>
+    lang = @lang.code,
+    user = @current.configuration.getString("environment.user").getOrElse("unknown"),
+    date = @(new java.util.Date().toString)
+</footer>

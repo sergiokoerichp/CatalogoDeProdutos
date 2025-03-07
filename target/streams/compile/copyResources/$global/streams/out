@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Sergio\Desktop\scala\products\conf\application.conf,C:\Users\Sergio\Desktop\scala\products\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Sergio\Desktop\scala\products\conf\messages,C:\Users\Sergio\Desktop\scala\products\target\scala-2.11\classes\messages)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Sergio\Desktop\scala\products\conf\messages.es,C:\Users\Sergio\Desktop\scala\products\target\scala-2.11\classes\messages.es)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Sergio\Desktop\scala\products\conf\messages.fr,C:\Users\Sergio\Desktop\scala\products\target\scala-2.11\classes\messages.fr)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Sergio\Desktop\scala\products\conf\messages.nl,C:\Users\Sergio\Desktop\scala\products\target\scala-2.11\classes\messages.nl)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Sergio\Desktop\scala\products\conf\routes,C:\Users\Sergio\Desktop\scala\products\target\scala-2.11\classes\routes)[0m

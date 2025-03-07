@@ -1,0 +1,7 @@
+2025-03-07 12:53:30,316 [INFO] from play.core.server.NettyServer in pool-4-thread-4 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2025-03-07 12:53:34,231 [INFO] from play.api.Play in ForkJoinPool-1-worker-25 - Application started (Dev)
+2025-03-07 12:53:46,017 [WARN] from application in application-akka.actor.default-dispatcher-6 - application.langs is deprecated, use play.i18n.langs instead
+2025-03-07 12:57:21,669 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-3 - Application started (Dev)
+2025-03-07 12:57:29,282 [WARN] from application in application-akka.actor.default-dispatcher-2 - application.langs is deprecated, use play.i18n.langs instead
+2025-03-07 12:58:17,445 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
+2025-03-07 12:58:17,453 [WARN] from application in application-akka.actor.default-dispatcher-3 - application.langs is deprecated, use play.i18n.langs instead

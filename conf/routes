@@ -1,0 +1,16 @@
+# conf/routes
+
+# Rota raiz: redireciona para o controlador Application
+GET     /           controllers.Application.index
+
+# Rota para a listagem de produtos
+GET     /products   controllers.Products.list
+
+# Rota para arquivos estáticos (assets)
+GET     /assets/*file   controllers.Assets.versioned(path="/public", file: Asset)
+GET  /products/new  controllers.Products.newProduct
+GET   /products/:ean    controllers.Products.show(ean: Long)
+
+GET   /barcode/:ean   controllers.Barcodes.barcode(ean: Long)
+
+POST /products      controllers.Products.save
